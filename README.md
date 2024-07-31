@@ -44,7 +44,7 @@ A huge collection of various utilities such as:
 - ❌ iOS/iPadOS/Android (Not Supported)
 - ❌ Switch/Xbox/Playstation (Not Supported)
 
-  # 💾 Installation
+## 💾 Installation
 <details>
   <summary><h3>👶 This is my first time installing an Among Us mod</h3></summary>
 
