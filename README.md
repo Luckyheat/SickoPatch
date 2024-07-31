@@ -64,6 +64,7 @@ A huge collection of various utilities such as:
 
   <summary><h3>👴 I installed one or more Among Us mods in the past</h3></summary>
 
+## Windows
 - You should see a folder called `BepInEx` inside your Among Us folder. 
 - Download `SickoPatch.dll` from the -> [latest release](https://github.com/Luckyheat/SickoPatch/releases/tag/Release), place it into `BepInEx/plugins` and launch Among Us.
 </details>
